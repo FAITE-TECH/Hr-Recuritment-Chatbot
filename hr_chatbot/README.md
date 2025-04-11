@@ -36,7 +36,7 @@ The HR Recruitment Chatbot is an intelligent assistant designed to streamline th
 2. Access the chatbot via your browser at `http://localhost:5000`.
 
 ## Technologies Used
-
+- **Framework**: Rasa Framework vesrsion 3.6.21
 - **Backend**: Python version 3.10.0 (Flask)
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
